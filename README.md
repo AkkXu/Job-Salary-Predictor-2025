@@ -99,7 +99,7 @@ Final app interface allows users to:
 - Python (pandas, scikit-learn, XGBoost, matplotlib, seaborn)
 - Streamlit
 - Joblib
-- Jupyter Notebook
+- Colab Notebook
 
 ---
 
